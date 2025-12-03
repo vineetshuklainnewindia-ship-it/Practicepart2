@@ -1,7 +1,7 @@
 # Single Inheritance
 class Dog:
     def __init__(self, name):
-        self.name = name
+        
 
     def display_name(self):
         print(f"Dog's Name: {self.name}")
